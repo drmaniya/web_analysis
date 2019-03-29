@@ -1,0 +1,7 @@
+@charset "utf-8";
+/* CSS Document */
+
+.btnhi{background-color:#999;
+color:#FFF;
+}
+.btnhi:hover{background-color:#369;}

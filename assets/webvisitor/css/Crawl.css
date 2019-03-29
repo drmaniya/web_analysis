@@ -1,0 +1,27 @@
+body{margin:0px;}
+.row{margin:0px;}
+.contain_1{margin-top:50px;}
+h3{font-size:24px;font-family:lato,helvetica neue,Helvetica,Arial,sans-serif;}
+p{font-size:14px;}
+@media(max-width:767px)
+{
+	.javascript{padding:0 10px;}
+	.instant{padding:0 10px;}
+	.page{padding:0 10px;}
+	h3{font-size:20px;font-family:lato,helvetica neue,Helvetica,Arial,sans-serif;}
+}
+@media(min-width:768px) and (max-width:991px)
+{
+	h3{font-size:20px;font-family:lato,helvetica neue,Helvetica,Arial,sans-serif;margin-top:50px;}
+	p{font-size:12px;}
+}
+@media(min-width:992px) and (max-width:1024px)
+{
+		.javascript{padding:15px;}
+		.instant{padding:15px;}
+		.page{padding:15px;}
+		p{font-size:14px;}
+}
+@medial(min-width:1025px) and (max-width:1200px)
+{
+}

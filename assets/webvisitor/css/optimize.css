@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+
+@charset "utf-8";
+/* CSS Document */
+
+.oeffectop{background-color:#fff;height:300px;width:260px;margin-top:10px;margin-bottom:5px;float:left;padding:15px;}
+.oeffectop p{font-size:16px;}
+.seffectop{background-color:#fff;height:350px;width:330px;margin-left:320px;margin-top:0px;padding:15px;}
+.seffectop p{font-size:16px;}
+
+.oeffectop:hover{box-shadow:1px 1px 10px 1px #333;transform:scale(1,1); transition:.5s}
+.oeffectop{width:260px;}
+.seffectop:hover{box-shadow:1px 1px 10px 1px #333;transform:scale(1,1); transition:.5s}
+.seffectop{width:260px;}
+.farrop i{color:#03F;font-size:24px;margin-left:200px;margin-top:70px;}
+.sarrop i{color:#03f;font-size:24px;margin-left:200px;margin-top:10px;}
+.effeop{height:300px;margin-top:100px;width:400px;}
+.setimgtop img{width:100%;height:300px;}
+
+
+@media (max-width:767px)
+{
+
+.effeop{height:150px;margin-top:30px;width:300px;margin-left:0px;margin-bottom:30px;}
+.setimgtop img{width:100%;height:100%;}
+.oeffectop{float:none;margin-left:10px;height:250px;}
+.farrop i{margin-top:20px;}
+.seffectop{margin-left:10px;margin-top:20px;height:300px;}
+
+}
+@media (min-width:768px) and (max-width:991px)
+{
+.oeffectop{margin-left:60px;}
+.seffectop{margin-left:390px;}
+.effeop{height:300px;margin-top:50px;width:600px;margin-left:60px;}
+.setimgtop img{width:100%;height:300px;}	
+}
+
+
+@media (min-width:992px) and (max-width:1024px)
+{
+
+.effeop{height:300px;margin-top:100px;width:320px;}
+.setimgtop img{width:100%;height:300px;}
+}	
