@@ -57,7 +57,7 @@
 					$config['protocol']='smtp';
 					$config['smtp_host']='ssl://smtp.gmail.com';
 					$config['smtp_user']='webanalysis09@gmail.com';
-					$config['smtp_pass']='webanalysis09track';
+		
 					$config['smtp_port']= 465;
 				//}
 				
