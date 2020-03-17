@@ -103,7 +103,7 @@ else
 	'dsn'	=> '',
 	'hostname' => 'localhost',
 	'username' => 'creatrpl_wanalys',
-	'password' => 'CWI@rahul',
+	'password' => '',
 	'database' => 'creatrpl_web_analysis',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
